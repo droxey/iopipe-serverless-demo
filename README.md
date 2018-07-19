@@ -8,6 +8,7 @@
     $ export IOPIPE_TOKEN=384_CHAR_STRING_GET_FROM_IOPIPE_WEBSITE_AFTER_CREATING_A_PROJECT
     $ export AWS_PROFILE=notesapp
     ```
+
 1. Continue the rest of the deployment in the
 **same terminal window**. Next, **clone and navigate** to this example project in your **local filesystem**:
 
